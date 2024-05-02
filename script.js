@@ -2,7 +2,7 @@ let time;
 let count = 0;
 
 function updateDisplay() {
-  document.querySelector("#Display").textContent = count;
+  document.querySelector("#display").textContent = count;
 }
 
 function updateTime() {
